@@ -1,0 +1,79 @@
+[
+    {   
+        "foto":"img/frieren.webp",
+        "foto2":"img/frieren2.jpeg",
+        "nombre":"Frieren",
+        "Kanji":"フリーレン",
+        "raza":"Elfa",
+        "edad":"",
+        "clase":"Hechicera",
+        "afiliacion":"Grupo de los Cuatro Héroes / Grupo de Frieren"
+
+    },
+    {   
+        "foto":"img/Himmel.webp",
+        "foto2":"img/Himmel2.webp",
+        "nombre":"Himmel",
+        "Kanji":"ヒンメル",
+        "raza":"Humano",
+        "edad":"26 años",
+        "clase":"Paladín",
+        "afiliacion":"Grupo de los Cuatro Héroes"
+
+    },
+    {   
+        "foto":"img/Eisen.webp",
+        "foto2":"img/Eisen2.webp",
+        "nombre":"Eisen",
+        "Kanji":"アイゼン",
+        "raza":"Enano",
+        "edad":"+ de 100 años",
+        "clase":"Guerrero",
+        "afiliacion":"Grupo de los Cuatro Héroes"
+
+    },
+    {   
+        "foto":"img/Heiter.webp",
+        "foto2":"img/Heiter2.jpeg",
+        "nombre":"Heiter",
+        "Kanji":"ハイター",
+        "raza":"Humano",
+        "edad":"+de 100 años",
+        "clase":"Sacerdote",
+        "afiliacion":"Grupo de los Cuatro Héroes"
+
+    },
+    {   
+        "foto":"img/Fern.webp",
+        "foto2":"img/Fern2.webp",
+        "nombre":"Fern",
+        "Kanji":"フェルン",
+        "raza":"Humano",
+        "edad":"18 años",
+        "clase":"Hechicera",
+        "afiliacion":"Grupo de Frieren"
+
+    },
+    {   
+        "foto":"img/Stark.webp",
+        "foto2":"img/Stark2.webp",
+        "nombre":"Stark",
+        "Kanji":"シュタルク",
+        "raza":"Humano",
+        "edad":"17 años",
+        "clase":"Guerrero",
+        "afiliacion":"Grupo de Frieren"
+
+    },
+    {   
+        "foto":"img/Sein.webp",
+        "foto2":"img/Sein2.webp",
+        "nombre":"Sein",
+        "Kanji":"ザイン",
+        "raza":"Humano",
+        "edad":"",
+        "clase":"Sacerdote",
+        "afiliacion":"Grupo de Frieren"
+
+    }
+]
